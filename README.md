@@ -1,4 +1,4 @@
-`````OOOOOOOOO0
+`````OOOOOOOOOO
 ``OOOOO
 `OO
 OO
@@ -6,7 +6,7 @@ OO
 OO
 `OO 
 ```OOOOO
-``````OOOOOOOOO
-
+``````OOOOOOOO0
+~+~+~+~+~+~+~+~+~+
 Gleamin since 2019
 ~+~+~+~+~+~+~+~+~+
